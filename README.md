@@ -36,3 +36,6 @@ The project employs the Arduino platform for precise timing and control of the l
 3. Input text messages via serial monitor or other input methods to be sent over laser.
 
 4. Receive and read decoded messages on the receiver side.
+
+# Schematic
+![Schematic](images/image.png)
